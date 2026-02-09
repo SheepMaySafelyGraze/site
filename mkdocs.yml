@@ -1,2 +1,8 @@
-site_name: My Docs
-theme: material
+site_name: Loki Dunn
+theme:
+  name: material
+  features:
+    - header.autohide
+  palette:
+    primary: teal
+
